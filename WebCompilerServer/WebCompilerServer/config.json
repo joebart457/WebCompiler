@@ -1,0 +1,8 @@
+{
+  "ProjectDirectory": "/usr/local/WebCompiler/Projects",
+  "BuildDirectory": "/usr/local/WebCompiler/Build",
+  "StageDirectory": "/user/local/WebCompiler/Stage",
+  "DataDirectory": "/user/local/WebCompiler/Data",
+  "TemplateDirectory": "/usr/local/WebCompiler/Templates",
+  "TemplateProjectPath": "/usr/local/WebCompiler/Templates/project.csproj"
+}

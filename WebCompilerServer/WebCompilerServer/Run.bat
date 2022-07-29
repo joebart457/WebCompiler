@@ -1,0 +1,1 @@
+docker run -it -p 8000:80 -e ASPNETCORE_URLS=http://+:80 -v C:/tmp/webcompilerserver:/usr/local/WebCompiler joebart457/web-compiler-server:0.0.1
